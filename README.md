@@ -11,7 +11,8 @@ This repository contains my C++ learning journey. It includes programs and exerc
 - Loops
 - Functions
 - Arrays
-
+- Characterized Array
+- Strings
 
 ## How to Run
 
