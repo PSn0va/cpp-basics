@@ -4,6 +4,7 @@ This repository contains my C++ learning journey. It includes programs and exerc
 
 ## Topics Covered
 
+- Basic Maths 
 - Variables & Data Types
 - Input / Output
 - Operators
@@ -13,6 +14,7 @@ This repository contains my C++ learning journey. It includes programs and exerc
 - Arrays
 - Characterized Array
 - Strings
+
 
 ## How to Run
 
