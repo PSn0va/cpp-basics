@@ -14,6 +14,8 @@ This repository contains my C++ learning journey. It includes programs and exerc
 - Arrays
 - Characterized Array
 - Strings
+- Dynamic memory
+- Recursion
 
 
 ## How to Run
