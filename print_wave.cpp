@@ -10,7 +10,7 @@ int main(){
     }
     for(int j=0;j<4;j++ ){
         if(j&1){
-            for(int i=4;i>0;i--){
+            for(int i=2;i>=0;i--){
                 cout<<arr[i][j]<< " "; 
             }
 
