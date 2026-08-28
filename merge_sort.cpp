@@ -30,6 +30,8 @@ void merge(int arr[],int s, int e){
     while(index1<len2){
         arr[k++]=arr2[index2++];
     }
+    delete []arr1;
+    delete []arr2;
 }
 void sort(int arr[],int s, int e){
     if(s>=e){
